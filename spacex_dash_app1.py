@@ -27,9 +27,8 @@ app.layout = html.Div(children=[
                                                 'color': '#503D36',
                                                 'backgroundColor': "white",
                                                 'font-size': 23}),
-                                # TASK 1: Add a dropdown list to enable Launch Site selection                              
+                                # Add a dropdown list to enable Launch Site selection                              
                                 # The default select value is for ALL sites
-                                # dcc.Dropdown(id='site-dropdown',...)
 
                                 # outer division
                                 html.Div([
